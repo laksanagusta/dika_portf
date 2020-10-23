@@ -6,7 +6,7 @@ to create decent apps.
 
 
 # Universitas Surabaya Event Ticket Apps
-* I built this project as my thesis in college, this app is basically make sell and buy ticket more easily for student as the buyer and organization as the seller. Evant tickets can be filtered for spesific student.
+* Universitas Surabaya is a college in Surabaya. I built this project as my thesis in college, this app is basically help college organization to sell and buy ticket more fast and easily. Event tickets can be filtered for spesific student. Project build with phonegap, a cross-platform tools for build mobile apps.
 
 ![](/images/UbayaTiketApps.png)
 
