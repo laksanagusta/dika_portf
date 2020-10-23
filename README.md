@@ -16,6 +16,6 @@ to create great apps.
 # Bosowa Utama Automotive Management System
 * This project is built while i'am working in bosowa. This application is store all driver and customer data and transaction. The output of this project is daily report of income and outcome. The project consist of couple subproject such finance, taxi, car credit, etc.
 
-![](/images/BSW1.png)
+![](/images/BosowaApps1.png)
 
-![](/images/BSW2.png)
+![](/images/BosowaApps2.png)
